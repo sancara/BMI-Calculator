@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		1C54A22827A7FBFF00F7121C /* CalculatorBrain.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1C54A22727A7FBFF00F7121C /* CalculatorBrain.swift */; };
+		1C54A22A27A8180800F7121C /* BMI.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1C54A22927A8180800F7121C /* BMI.swift */; };
 		1CC3C127279C92E900EE4C95 /* SecondViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1CC3C126279C92E900EE4C95 /* SecondViewController.swift */; };
 		1CC3C129279CA4EE00EE4C95 /* ResultViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1CC3C128279CA4EE00EE4C95 /* ResultViewController.swift */; };
 		AD0B9F7A230D61800065EFD9 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD0B9F79230D61800065EFD9 /* AppDelegate.swift */; };
@@ -21,6 +22,7 @@
 
 /* Begin PBXFileReference section */
 		1C54A22727A7FBFF00F7121C /* CalculatorBrain.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CalculatorBrain.swift; sourceTree = "<group>"; };
+		1C54A22927A8180800F7121C /* BMI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BMI.swift; sourceTree = "<group>"; };
 		1CC3C126279C92E900EE4C95 /* SecondViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondViewController.swift; sourceTree = "<group>"; };
 		1CC3C128279CA4EE00EE4C95 /* ResultViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ResultViewController.swift; sourceTree = "<group>"; };
 		AD0B9F76230D61800065EFD9 /* BMI Calculator.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "BMI Calculator.app"; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -49,6 +51,7 @@
 			isa = PBXGroup;
 			children = (
 				1C54A22727A7FBFF00F7121C /* CalculatorBrain.swift */,
+				1C54A22927A8180800F7121C /* BMI.swift */,
 			);
 			path = Models;
 			sourceTree = "<group>";
@@ -178,6 +181,7 @@
 				1C54A22827A7FBFF00F7121C /* CalculatorBrain.swift in Sources */,
 				1CC3C129279CA4EE00EE4C95 /* ResultViewController.swift in Sources */,
 				1CC3C127279C92E900EE4C95 /* SecondViewController.swift in Sources */,
+				1C54A22A27A8180800F7121C /* BMI.swift in Sources */,
 				AD0B9F7E230D61800065EFD9 /* CalculateViewController.swift in Sources */,
 				AD0B9F7A230D61800065EFD9 /* AppDelegate.swift in Sources */,
 				AD0B9F7C230D61800065EFD9 /* SceneDelegate.swift in Sources */,
